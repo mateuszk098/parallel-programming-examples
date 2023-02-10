@@ -82,7 +82,7 @@ Only the `-fopenmp` flag is required for `OpenMP` to work. The others are option
 
 ---
 
-## **2. CUDA:** <a id="cuda"></a>
+## **2. CUDA** <a id="cuda"></a>
 
 `CUDA` is Nvidia's universal architecture for multi-core processors (mainly graphics cards), allowing GPU to solve general numerical problems much more efficiently than traditional sequential general-purpose processors.
 
