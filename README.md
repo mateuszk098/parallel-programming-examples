@@ -139,13 +139,13 @@ Start the terminal and update the repository:
 >>> sudo apt-get update
 ```
 
-We then install the mpich package:
+We then install the `mpich` package:
 
 ```bash
 >>> sudo apt-get install mpich
 ```
 
-We can now check the version of the installed MPI (this will actually be the GCC version):
+We can now check the version of the installed `MPI` (this will actually be the `GCC` version):
 
 ```bash
 >>> mpic++ --version
