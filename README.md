@@ -125,7 +125,7 @@ We can find a lot of useful information about `CUDA` in the official documentati
 
 ---
 
-### **3. MPI** <a id="mpi"></a>
+## **3. MPI** <a id="mpi"></a>
 
 Message Passing Interface (`MPI`) is a communication protocol standard for transferring messages between parallel program processes on one or more computers. `MPI` is currently the most widely used communication model in clusters of computers and supercomputers.
 
